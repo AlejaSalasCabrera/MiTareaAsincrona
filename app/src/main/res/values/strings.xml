@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiTareaAsincrona</string>
+    <string name="str_1">Procesar</string>
+    <string name="srt_2">Nombre:</string>
+    <string name="srt_3">Apellido:</string>
+    <string name="str_4">Datos de Usuario</string>
+</resources>
